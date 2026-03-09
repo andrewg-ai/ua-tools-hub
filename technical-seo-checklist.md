@@ -307,7 +307,7 @@ A: Technical SEO fundamentals are identical for google.com.ua. Core Web Vitals, 
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "Technical SEO Checklist 2026: 50 Checks for Ukrainian Websites",
-  "dateModified": "2026-03-08",
+  "dateModified": "2026-03-09",
   "author": {"@type": "Organization", "name": "UA Tools Hub"},
   "description": "Complete 50-point technical SEO checklist for Ukrainian websites — crawling, Core Web Vitals, structured data, and more"
 }

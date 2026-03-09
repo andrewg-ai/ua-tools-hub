@@ -192,7 +192,7 @@ For many Ukrainian teams: start with Notion (easier onboarding), switch to or ad
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "ClickUp vs Notion 2026: Which is Better for Ukrainian Teams?",
-  "dateModified": "2026-03-08",
+  "dateModified": "2026-03-09",
   "author": {"@type": "Organization", "name": "UA Tools Hub"},
   "description": "Head-to-head comparison of ClickUp and Notion for Ukrainian teams — task management, documentation, pricing, and which to choose",
   "mainEntity": {
