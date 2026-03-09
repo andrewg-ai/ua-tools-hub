@@ -308,7 +308,7 @@ The most impactful AI tools for Ukrainian businesses in 2026 are Claude (AI assi
   "@type": "ItemList",
   "name": "Best AI Tools for Ukrainian Business 2026",
   "description": "Top 15 AI tools for Ukrainian businesses — assistants, image generation, voice AI, and productivity",
-  "dateModified": "2026-03-09",
+  "dateModified": "2026-03-10",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [

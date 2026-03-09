@@ -211,7 +211,7 @@ Add **Hotjar** for deeper conversion optimization, **Mixpanel** or **Amplitude**
   "@type": "ItemList",
   "name": "Best Analytics Tools for Ukrainian Businesses 2026",
   "description": "Top 8 analytics platforms for Ukrainian businesses — web analytics, heatmaps, product analytics, and BI",
-  "dateModified": "2026-03-09",
+  "dateModified": "2026-03-10",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [
