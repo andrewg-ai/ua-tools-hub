@@ -170,7 +170,7 @@ Add **Loom** for team communication and **Descript** for talking-head content ed
   "@type": "ItemList",
   "name": "Best Video Creation Tools for Ukrainian Businesses 2026",
   "description": "Top video editing and creation tools for Ukrainian businesses and content creators",
-  "dateModified": "2026-03-10",
+  "dateModified": "2026-03-11",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [
