@@ -16,7 +16,7 @@ Pipedrive is the CRM built by salespeople for salespeople — visual pipeline, a
 | **Automations** | ✅ From Advanced plan |
 | **Our rating** | ⭐ 4.6/5 |
 
-**[→ Try Pipedrive Free for 14 Days](https://YOUR-PIPEDRIVE-AFFILIATE-LINK)**
+**[→ Try Pipedrive Free for 14 Days](https://www.pipedrive.com/taf/HZZJ2P)**
 
 ---
 
@@ -100,7 +100,7 @@ Pipedrive is the cleanest, most sales-focused CRM available. For Ukrainian B2B s
 
 For teams needing messenger (Viber/Telegram) integration — amoCRM is better. For teams needing free CRM + marketing — HubSpot free is better. For pure B2B sales pipeline management — Pipedrive wins.
 
-**[→ Try Pipedrive Free for 14 Days](https://YOUR-PIPEDRIVE-AFFILIATE-LINK)**
+**[→ Try Pipedrive Free for 14 Days](https://www.pipedrive.com/taf/HZZJ2P)**
 
 ---
 
