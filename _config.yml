@@ -1,0 +1,9 @@
+﻿title: UA Tools Hub
+description: Best tools for Ukrainian business and creators
+baseurl: "/ua-tools-hub"
+url: "https://andrewg-ai.github.io"
+
+plugins:
+  - jekyll-sitemap
+
+markdown: kramdown
