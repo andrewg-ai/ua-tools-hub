@@ -112,32 +112,41 @@ Start with the free 10-day trial — no credit card required.
 
 *Related articles: [Free SEO Tools for Ukraine](/ua-tools-hub/free-seo-tools-ukraine.html) | [Keyword Research Guide](/ua-tools-hub/keyword-research-ukraine.html)*
 
+<!-- schema:start -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Review",
-  "name": "Mangools Review 2026",
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "4.6",
-    "bestRating": "5"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "UA Tools Hub"
-  },
+  "name": "Mangools Review 2026: Best Affordable SEO Tool?",
+  "description": "Full Mangools review: KWFinder, SERPChecker, LinkMiner — is it worth it for Ukrainian SEOs?",
   "datePublished": "2026-03-11",
   "dateModified": "2026-03-11",
+  "author": {
+    "@type": "Person",
+    "name": "Andrii Hnitko"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "4.7",
+    "bestRating": "5"
+  },
   "itemReviewed": {
     "@type": "SoftwareApplication",
     "name": "Mangools",
-    "applicationCategory": "SEO Tools",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Web",
     "offers": {
       "@type": "Offer",
       "price": "29",
       "priceCurrency": "USD"
     },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "8500"
+    },
     "url": "https://mangools.com#a69adc6ab6aee089440eea91f"
   }
 }
 </script>
+<!-- schema:end -->
