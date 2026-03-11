@@ -175,45 +175,6 @@ For Ukrainian YouTubers, educators, marketers, and businesses looking to produce
 
 *Disclosure: This page contains affiliate links. We earn a 22% recurring commission if you purchase through our link at no extra cost to you.*
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Review",
-  "name": "ElevenLabs Review 2026",
-  "dateModified": "2026-03-08",
-  "author": {"@type": "Organization", "name": "UA Tools Hub"},
-  "reviewRating": {"@type": "Rating", "ratingValue": "4.8", "bestRating": "5"},
-  "itemReviewed": {
-    "@type": "SoftwareApplication",
-    "name": "ElevenLabs",
-    "applicationCategory": "BusinessApplication",
-    "offers": {"@type": "Offer", "price": "5", "priceCurrency": "USD"},
-    "url": "https://try.elevenlabs.io/q884u6ssmier"
-  },
-  "mainEntity": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "How good is ElevenLabs Ukrainian voice quality?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "ElevenLabs produces the most natural Ukrainian AI voices available in 2026. Stress patterns, intonation, and Ukrainian-specific phonetics are handled significantly better than most competitors."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Can I clone my Ukrainian voice with ElevenLabs?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes — Instant Voice Cloning is available on the Starter plan ($5/month). Upload 1 minute of clean Ukrainian audio and ElevenLabs creates a voice clone."
-        }
-      }
-    ]
-  }
-}
-</script>
-
 <!-- schema:start -->
 <script type="application/ld+json">
 {
