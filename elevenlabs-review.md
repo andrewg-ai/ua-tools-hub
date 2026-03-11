@@ -213,3 +213,42 @@ For Ukrainian YouTubers, educators, marketers, and businesses looking to produce
   }
 }
 </script>
+
+<!-- schema:start -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "name": "ElevenLabs Review 2026: AI Voice Generator for Ukrainian Creators",
+  "description": "ElevenLabs AI voice cloning and text-to-speech review for Ukrainian content creators and businesses.",
+  "datePublished": "2026-03-11",
+  "dateModified": "2026-03-11",
+  "author": {
+    "@type": "Person",
+    "name": "Andrii Hnitko"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "4.8",
+    "bestRating": "5"
+  },
+  "itemReviewed": {
+    "@type": "SoftwareApplication",
+    "name": "ElevenLabs",
+    "applicationCategory": "MultimediaApplication",
+    "operatingSystem": "Web",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "12000"
+    },
+    "url": "https://try.elevenlabs.io/q884u6ssmier"
+  }
+}
+</script>
+<!-- schema:end -->
