@@ -190,7 +190,7 @@ For AI images: **Midjourney** ($10/month)
   "@type": "ItemList",
   "name": "Best Design Tools for Ukrainian Businesses 2026",
   "description": "Top 10 design tools used by Ukrainian creatives and marketers in 2026",
-  "dateModified": "2026-03-11",
+  "dateModified": "2026-03-12",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [

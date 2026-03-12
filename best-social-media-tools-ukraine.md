@@ -182,7 +182,7 @@ For analytics-driven teams: **Metricool** (deepest analytics, competitor trackin
   "@type": "ItemList",
   "name": "Best Social Media Tools for Ukrainian Businesses 2026",
   "description": "Top 8 social media management tools for Ukrainian businesses including Telegram support",
-  "dateModified": "2026-03-11",
+  "dateModified": "2026-03-12",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [

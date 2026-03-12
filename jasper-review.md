@@ -145,7 +145,7 @@ For occasional use or Ukrainian-language-first content — Claude or ChatGPT are
   "@context": "https://schema.org",
   "@type": "Review",
   "name": "Jasper AI Review 2026",
-  "dateModified": "2026-03-11",
+  "dateModified": "2026-03-12",
   "author": {"@type": "Organization", "name": "UA Tools Hub"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.5", "bestRating": "5"},
   "itemReviewed": {
