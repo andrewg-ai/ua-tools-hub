@@ -127,7 +127,7 @@ ElevenLabs — найреалістичніший AI-генератор голо
   "description": "Огляд ElevenLabs для українських ютуберів: клонування голосу, підтримка української мови, ціни.",
   "inLanguage": "uk",
   "datePublished": "2026-03-11",
-  "dateModified": "2026-03-12",
+  "dateModified": "2026-03-16",
   "author": {"@type": "Organization", "name": "UA Tools Hub"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.8", "bestRating": "5"},
   "itemReviewed": {

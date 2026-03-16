@@ -146,7 +146,7 @@ For Ukrainian freelancers scaling their content output — Rytr Saver at $9/mont
   "name": "Rytr Review 2026: AI Writing Tool for Ukrainian Copywriters",
   "description": "Rytr AI writer review: use cases, pricing, and how Ukrainian copywriters use it to save time.",
   "datePublished": "2026-03-11",
-  "dateModified": "2026-03-12",
+  "dateModified": "2026-03-16",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"
