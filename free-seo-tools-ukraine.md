@@ -264,7 +264,7 @@ When this free stack stops being enough — that's the right signal to invest in
   "@type": "ItemList",
   "name": "Best Free SEO Tools for Ukraine 2026",
   "description": "10 free SEO tools for Ukrainian businesses — keyword research, rank tracking, technical audits",
-  "dateModified": "2026-03-16",
+  "dateModified": "2026-03-20",
   "itemListElement": [
     {
       "@type": "ListItem", "position": 1,

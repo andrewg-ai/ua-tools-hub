@@ -180,7 +180,7 @@ For B2B sales teams that want the cleanest pipeline experience: **Pipedrive**.
   "@type": "ItemList",
   "name": "Best CRM Systems for Ukrainian Business 2026",
   "description": "Top 8 CRM platforms for Ukrainian businesses — free plans, Ukrainian support, and sales features",
-  "dateModified": "2026-03-16",
+  "dateModified": "2026-03-20",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [
