@@ -123,37 +123,76 @@ ElevenLabs — найреалістичніший AI-генератор голо
 {
   "@context": "https://schema.org",
   "@type": "Review",
-  "name": "ElevenLabs Огляд 2026: AI Голос для Українських Контент-мейкерів",
-  "description": "Огляд ElevenLabs для українських ютуберів: клонування голосу, підтримка української мови, ціни.",
-  "inLanguage": "uk",
-  "datePublished": "2026-03-11",
+  "name": "ElevenLabs Review 2026: AI Voice Generator for Ukrainian Creators",
+  "description": "ElevenLabs AI voice cloning and text-to-speech review for Ukrainian content creators and businesses.",
+  "datePublished": "2026-03-20",
   "dateModified": "2026-03-20",
-  "author": {"@type": "Organization", "name": "UA Tools Hub"},
-  "reviewRating": {"@type": "Rating", "ratingValue": "4.8", "bestRating": "5"},
+  "author": {
+    "@type": "Person",
+    "name": "Andrii Hnitko"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "4.8",
+    "bestRating": "5"
+  },
   "itemReviewed": {
     "@type": "SoftwareApplication",
     "name": "ElevenLabs",
     "applicationCategory": "MultimediaApplication",
     "operatingSystem": "Web",
-    "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
-    "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.8", "reviewCount": "12000"},
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "12000"
+    },
     "url": "https://try.elevenlabs.io/q884u6ssmier"
-  },
-  "mainEntity": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Чи підтримує ElevenLabs українську мову?",
-        "acceptedAnswer": {"@type": "Answer", "text": "Так — одна з кращих реалізацій серед AI-голосів з правильною інтонацією і наголосами."}
-      },
-      {
-        "@type": "Question",
-        "name": "Чи можна використовувати ElevenLabs для дублювання YouTube відео?",
-        "acceptedAnswer": {"@type": "Answer", "text": "Так. Video Dubbing автоматично перекладає і дублює відео на будь-яку мову включно з українською."}
-      }
-    ]
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Чи підтримує ElevenLabs українську мову?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Так. ElevenLabs підтримує українську мову для синтезу мовлення з природним звучанням голосу."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Чи безкоштовний ElevenLabs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ElevenLabs має безкоштовний план з 10 000 символів на місяць. Платні плани від $5/місяць."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Чи може ElevenLabs клонувати мій голос українською?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Так. ElevenLabs клонує голос на основі українських аудіозразків і створює персоналізований AI-голос."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Для чого найкраще підходить ElevenLabs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ElevenLabs найкраще підходить для озвучення YouTube, подкастів, аудіокниг і корпоративних відео українською мовою."
+      }
+    }
+  ]
 }
 </script>
 <!-- schema:end -->
