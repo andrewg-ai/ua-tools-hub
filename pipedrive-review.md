@@ -115,7 +115,7 @@ For teams needing messenger (Viber/Telegram) integration — amoCRM is better. F
   "@type": "Review",
   "name": "Pipedrive Review 2026: CRM for Ukrainian Sales Teams",
   "description": "Pipedrive CRM review for Ukrainian businesses: pipeline management, pricing, and integrations.",
-  "datePublished": "2026-03-11",
+  "datePublished": "2026-03-20",
   "dateModified": "2026-03-20",
   "author": {
     "@type": "Person",
@@ -143,6 +143,38 @@ For teams needing messenger (Viber/Telegram) integration — amoCRM is better. F
     },
     "url": "https://www.pipedrive.com/taf/HZZJ2P"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Pipedrive good for small Ukrainian businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Pipedrive is ideal for small Ukrainian sales teams — visual pipeline, easy setup, and starts at $14/month per user."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Pipedrive integrate with Ukrainian tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pipedrive integrates with 400+ apps including Google Workspace, Slack, and Zapier which connects to most Ukrainian business tools."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Pipedrive available in Ukrainian?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pipedrive interface is available in multiple languages. While not Ukrainian, the English interface is straightforward for Ukrainian teams."
+      }
+    }
+  ]
 }
 </script>
 <!-- schema:end -->

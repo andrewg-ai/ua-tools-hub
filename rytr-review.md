@@ -145,7 +145,7 @@ For Ukrainian freelancers scaling their content output — Rytr Saver at $9/mont
   "@type": "Review",
   "name": "Rytr Review 2026: AI Writing Tool for Ukrainian Copywriters",
   "description": "Rytr AI writer review: use cases, pricing, and how Ukrainian copywriters use it to save time.",
-  "datePublished": "2026-03-11",
+  "datePublished": "2026-03-20",
   "dateModified": "2026-03-20",
   "author": {
     "@type": "Person",
@@ -173,6 +173,38 @@ For Ukrainian freelancers scaling their content output — Rytr Saver at $9/mont
     },
     "url": "https://rytr.me?via=andrii"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Rytr support Ukrainian language?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Rytr supports Ukrainian language for AI content generation including blog posts, social media, and marketing copy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Rytr free to use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rytr offers a free plan with 10,000 characters per month. The Saver plan is $9/month for 100,000 characters."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Rytr good for Ukrainian copywriters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Rytr helps Ukrainian copywriters generate content 10x faster with 40+ use cases and Ukrainian language support."
+      }
+    }
+  ]
 }
 </script>
 <!-- schema:end -->
