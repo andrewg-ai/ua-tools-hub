@@ -1,4 +1,4 @@
-# Best AI Tools for Ukrainian Business 2026: Top 15 Picks
+﻿# Best AI Tools for Ukrainian Business 2026: Top 15 Picks
 
 > Last updated: March 2026 | Author: UA Tools Hub
 

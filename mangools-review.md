@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: "Mangools Review 2026: Best Affordable SEO Tool for Ukrainian Businesses?"
 description: "Honest Mangools review for Ukrainian users. KWFinder, SERPChecker, LinkMiner — is it worth it? Pricing, features, and alternatives compared."

@@ -1,4 +1,4 @@
-# Best Email Marketing Tools for Ukraine 2026: Top 8 Platforms
+﻿# Best Email Marketing Tools for Ukraine 2026: Top 8 Platforms
 
 > Last updated: March 2026 | Author: UA Tools Hub
 

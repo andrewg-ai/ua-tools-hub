@@ -1,4 +1,4 @@
-# Rytr Review 2026: Best Affordable AI Writing Tool for Ukrainian Businesses?
+﻿# Rytr Review 2026: Best Affordable AI Writing Tool for Ukrainian Businesses?
 
 > Last updated: March 2026 | Author: UA Tools Hub
 

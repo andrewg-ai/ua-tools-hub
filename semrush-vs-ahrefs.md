@@ -1,4 +1,4 @@
-# Semrush vs Ahrefs 2026: Which SEO Tool is Better for Ukraine?
+﻿# Semrush vs Ahrefs 2026: Which SEO Tool is Better for Ukraine?
 
 > Last updated: March 2026 | Author: UA Tools Hub
 

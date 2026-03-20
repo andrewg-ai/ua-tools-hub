@@ -1,4 +1,4 @@
-# Kit (ConvertKit) Review 2026: Best Email Tool for Ukrainian Creators?
+﻿# Kit (ConvertKit) Review 2026: Best Email Tool for Ukrainian Creators?
 
 > Last updated: March 2026 | Author: UA Tools Hub
 

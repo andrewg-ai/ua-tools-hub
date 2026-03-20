@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: "Mangools Огляд 2026: Найдоступніший SEO-інструмент для України?"
 description: "Чесний огляд Mangools для українських SEO-спеціалістів 2026: KWFinder, SERPChecker, ціни від $29, порівняння з Ahrefs і Semrush."

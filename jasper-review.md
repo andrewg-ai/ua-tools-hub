@@ -1,4 +1,4 @@
-# Jasper AI Review 2026: Best AI Writing Tool for Ukrainian Marketers?
+﻿# Jasper AI Review 2026: Best AI Writing Tool for Ukrainian Marketers?
 
 > Last updated: March 2026 | Author: UA Tools Hub
 

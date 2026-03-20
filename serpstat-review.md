@@ -1,4 +1,4 @@
-# Serpstat Review 2026: The Best SEO Tool for Ukrainian Market?
+﻿# Serpstat Review 2026: The Best SEO Tool for Ukrainian Market?
 
 > Last updated: March 2026 | Author: UA Tools Hub
 

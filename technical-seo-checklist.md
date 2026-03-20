@@ -1,4 +1,4 @@
-# Technical SEO Checklist 2026: 50 Checks for Ukrainian Websites
+﻿# Technical SEO Checklist 2026: 50 Checks for Ukrainian Websites
 
 > Last updated: March 2026 | Author: UA Tools Hub
 

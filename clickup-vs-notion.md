@@ -1,4 +1,4 @@
-# ClickUp vs Notion 2026: Which is Better for Ukrainian Teams?
+﻿# ClickUp vs Notion 2026: Which is Better for Ukrainian Teams?
 
 > Last updated: March 2026 | Author: UA Tools Hub
 

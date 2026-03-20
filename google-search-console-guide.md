@@ -1,4 +1,4 @@
-# Google Search Console Guide 2026: Complete Setup for Ukrainian Websites
+﻿# Google Search Console Guide 2026: Complete Setup for Ukrainian Websites
 
 > Last updated: March 2026 | Author: UA Tools Hub
 
