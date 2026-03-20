@@ -230,7 +230,7 @@ For most Ukrainian teams in 2026:
   "@type": "ItemList",
   "name": "Best Project Management Tools for Ukrainian Teams 2026",
   "description": "Top 8 project management tools used by Ukrainian businesses and remote teams in 2026",
-  "dateModified": "2026-03-20",
+  "dateModified": "2026-03-21",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [

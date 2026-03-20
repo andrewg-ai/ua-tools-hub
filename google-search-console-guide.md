@@ -298,7 +298,7 @@ The Performance report's keyword data alone is worth more than most paid SEO too
   "@context": "https://schema.org",
   "@type": "HowTo",
   "name": "How to Set Up Google Search Console for a Ukrainian Website",
-  "dateModified": "2026-03-20",
+  "dateModified": "2026-03-21",
   "author": {"@type": "Organization", "name": "UA Tools Hub"},
   "description": "Complete guide to setting up and using Google Search Console for Ukrainian websites",
   "step": [
