@@ -208,7 +208,7 @@ For Ukrainian agencies and consultants where link building is a core service —
   "@context": "https://schema.org",
   "@type": "Review",
   "name": "Ahrefs Review 2026",
-  "dateModified": "2026-03-21",
+  "dateModified": "2026-03-22",
   "author": {"@type": "Organization", "name": "UA Tools Hub"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.8", "bestRating": "5"},
   "itemReviewed": {

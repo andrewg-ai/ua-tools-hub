@@ -120,7 +120,7 @@ Start with the free 10-day trial — no credit card required.
   "name": "Mangools Review 2026: Best Affordable SEO Tool?",
   "description": "Full Mangools review: KWFinder, SERPChecker, LinkMiner — is it worth it for Ukrainian SEOs?",
   "datePublished": "2026-03-20",
-  "dateModified": "2026-03-21",
+  "dateModified": "2026-03-22",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"

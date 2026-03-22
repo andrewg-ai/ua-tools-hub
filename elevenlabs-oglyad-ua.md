@@ -126,7 +126,7 @@ ElevenLabs — найреалістичніший AI-генератор голо
   "name": "ElevenLabs Review 2026: AI Voice Generator for Ukrainian Creators",
   "description": "ElevenLabs AI voice cloning and text-to-speech review for Ukrainian content creators and businesses.",
   "datePublished": "2026-03-20",
-  "dateModified": "2026-03-21",
+  "dateModified": "2026-03-22",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"
