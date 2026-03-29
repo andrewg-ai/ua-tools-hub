@@ -212,7 +212,7 @@ If budget is the deciding factor, consider **Serpstat** ($59/month) as a cost-ef
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "Semrush vs Ahrefs 2026: Which SEO Tool is Better for Ukraine?",
-  "dateModified": "2026-03-23",
+  "dateModified": "2026-03-29",
   "author": {"@type": "Organization", "name": "UA Tools Hub"},
   "description": "Head-to-head comparison of Semrush and Ahrefs for Ukrainian marketers — features, pricing, and local market coverage",
   "mainEntity": {
