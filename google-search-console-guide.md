@@ -1,6 +1,6 @@
 ﻿# Google Search Console Guide 2026: Complete Setup for Ukrainian Websites
 
-> Last updated: March 2026 | Author: UA Tools Hub
+> Last updated: April 2026 | Author: UA Tools Hub
 
 Google Search Console (GSC) is the most important free SEO tool available — and most Ukrainian website owners use less than 20% of its features. This guide covers complete setup and every report that matters for ranking on google.com.ua.
 
@@ -298,7 +298,7 @@ The Performance report's keyword data alone is worth more than most paid SEO too
   "@context": "https://schema.org",
   "@type": "HowTo",
   "name": "How to Set Up Google Search Console for a Ukrainian Website",
-  "dateModified": "2026-03-29",
+  "dateModified": "2026-04-03",
   "author": {"@type": "Organization", "name": "UA Tools Hub"},
   "description": "Complete guide to setting up and using Google Search Console for Ukrainian websites",
   "step": [

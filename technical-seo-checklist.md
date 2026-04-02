@@ -1,6 +1,6 @@
 ﻿# Technical SEO Checklist 2026: 50 Checks for Ukrainian Websites
 
-> Last updated: March 2026 | Author: UA Tools Hub
+> Last updated: April 2026 | Author: UA Tools Hub
 
 Technical SEO ensures Google can find, crawl, index, and understand your website. This checklist covers 50 technical checks organized by priority — work through them top to bottom for maximum impact on google.com.ua rankings.
 
@@ -307,7 +307,7 @@ A: Technical SEO fundamentals are identical for google.com.ua. Core Web Vitals, 
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "Technical SEO Checklist 2026: 50 Checks for Ukrainian Websites",
-  "dateModified": "2026-03-29",
+  "dateModified": "2026-04-03",
   "author": {"@type": "Organization", "name": "UA Tools Hub"},
   "description": "Complete 50-point technical SEO checklist for Ukrainian websites — crawling, Core Web Vitals, structured data, and more"
 }

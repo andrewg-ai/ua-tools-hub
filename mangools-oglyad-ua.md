@@ -136,7 +136,7 @@ Mangools — це набір з п'яти SEO-інструментів за ці
   "description": "Огляд Mangools для українських SEO-спеціалістів: KWFinder, ціни, порівняння з Ahrefs і Semrush.",
   "inLanguage": "uk",
   "datePublished": "2026-03-11",
-  "dateModified": "2026-03-29",
+  "dateModified": "2026-04-03",
   "author": {"@type": "Organization", "name": "UA Tools Hub"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.7", "bestRating": "5"},
   "itemReviewed": {

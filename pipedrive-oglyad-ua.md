@@ -125,7 +125,7 @@ HubSpot безкоштовний але з суттєвими обмеження
   "description": "Огляд Pipedrive CRM для українського бізнесу: pipeline, ціни від $14, інтеграції.",
   "inLanguage": "uk",
   "datePublished": "2026-03-11",
-  "dateModified": "2026-03-29",
+  "dateModified": "2026-04-03",
   "author": {"@type": "Organization", "name": "UA Tools Hub"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.6", "bestRating": "5"},
   "itemReviewed": {
