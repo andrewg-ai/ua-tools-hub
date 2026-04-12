@@ -190,7 +190,7 @@ For Ukrainian YouTubers, educators, marketers, and businesses looking to produce
   "name": "ElevenLabs Review 2026: AI Voice Generator for Ukrainian Creators",
   "description": "ElevenLabs AI voice cloning and text-to-speech review for Ukrainian content creators and businesses.",
   "datePublished": "2026-03-11",
-  "dateModified": "2026-04-03",
+  "dateModified": "2026-04-12",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"

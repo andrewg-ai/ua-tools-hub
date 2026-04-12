@@ -217,7 +217,7 @@ For transactional email: **Brevo** (pay per send, unlimited contacts).
   "@type": "ItemList",
   "name": "Best Email Marketing Tools for Ukraine 2026",
   "description": "Top 8 email marketing platforms for Ukrainian businesses — free plans, Ukrainian support, and pricing",
-  "dateModified": "2026-04-03",
+  "dateModified": "2026-04-12",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [

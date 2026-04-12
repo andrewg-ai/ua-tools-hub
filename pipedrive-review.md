@@ -123,7 +123,7 @@ For teams needing messenger (Viber/Telegram) integration — amoCRM is better. F
   "name": "Pipedrive Review 2026: CRM for Ukrainian Sales Teams",
   "description": "Pipedrive CRM review for Ukrainian businesses: pipeline management, pricing, and integrations.",
   "datePublished": "2026-03-20",
-  "dateModified": "2026-04-03",
+  "dateModified": "2026-04-12",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"

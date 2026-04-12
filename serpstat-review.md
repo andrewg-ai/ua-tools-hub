@@ -223,7 +223,7 @@ The main limitations — smaller international database and fewer content tools 
   "@context": "https://schema.org",
   "@type": "Review",
   "name": "Serpstat Review 2026",
-  "dateModified": "2026-04-03",
+  "dateModified": "2026-04-12",
   "author": {"@type": "Organization", "name": "UA Tools Hub"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.6", "bestRating": "5"},
   "itemReviewed": {
